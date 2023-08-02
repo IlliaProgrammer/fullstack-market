@@ -5,4 +5,4 @@
 > npm run dev - run server
 > npm start - start client
 
-![alt text](https://ibb.co/HKXfQmt.jpg)
+![alt text](https://ibb.co/HKXfQmt.jpeg)
