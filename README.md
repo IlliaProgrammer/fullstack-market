@@ -5,5 +5,4 @@
 > npm run dev - run server
 > npm start - start client
 
-![alt text](https://ibb.co/HKXfQmt)
- <img src="https://ibb.co/HKXfQmt" width="350" title="hover text">
+![alt text](https://ibb.co/HKXfQmt.jpg)
